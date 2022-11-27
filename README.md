@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Track back**
 
-- 🌱 I’m currently learning **Python, Java, HTML,**
+- 🌱 I’m currently learning **Python, Java, HTML, Javascript, GO, C++, SQL, PHP, Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
