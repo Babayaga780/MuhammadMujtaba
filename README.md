@@ -1,3 +1,4 @@
+![logo](https://github.com/Babayaga780/MuhammadMujtaba/blob/main/technology-glitch-color-background-head-face-blue-futuristic-artificial-intelligence-presentation-computer-communicati-176011389.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Mujtaba</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
