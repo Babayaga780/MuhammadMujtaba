@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mujtaba00012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujtaba00012" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammadmujtaba131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mujtaba" height="30" width="40" /></a>
+<a href="https://linkedin.com/muhammadmujtaba131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mujtaba" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad mujtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad mujtaba" height="30" width="40" /></a>
 <a href="https://instagram.com/_mujtaba_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mujtaba_02" height="30" width="40" /></a>
 <a href="https://discord.gg/#4669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4669" height="30" width="40" /></a>
